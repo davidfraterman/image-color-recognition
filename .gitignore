@@ -1,3 +1,9 @@
 /images
+/images_storage
 /.venv
+/entries
 notes.md
+*.pdf
+*.txt
+/images*
+*.zip
